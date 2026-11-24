@@ -1,0 +1,8 @@
+.git
+screenshots
+docs
+k8s
+hybrid
+scripts
+__pycache__
+*.pyc

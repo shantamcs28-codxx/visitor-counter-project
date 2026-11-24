@@ -1,0 +1,19 @@
+results/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+
+# Python virtual environments
+.venv/
+venv/
+
+# macOS
+.DS_Store
